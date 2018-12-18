@@ -1,7 +1,7 @@
 version: "1"
 rules:                           # Array of rules
   - base: develop                 # Required. Target branch
-    upstream: master         # Required. Must be in the same fork network.
+    upstream: carvincarl:master         # Required. Must be in the same fork network.
     autoMerge: true              # Optional, Default: false
     autoMergeHardReset: false     # Optional, Default: false DANGEROUS Wipes target branch changes and reset ref to match upstream
 #  - base: dev
