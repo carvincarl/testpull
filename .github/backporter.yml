@@ -2,6 +2,6 @@ slackbotURI: "https://hooks.slack.com/services/T6YR7QU81/BEYTHPJKW/ydykaDlB92YBh
 branches:
   - base: beta
     compare: master
-  - base: beta
-    compare: develop
+  - base: develop
+    compare: beta
     
