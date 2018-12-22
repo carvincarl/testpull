@@ -1,4 +1,4 @@
-# testpull
+# test
 
 Test a GitHub app
 
