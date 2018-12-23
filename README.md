@@ -1,6 +1,6 @@
-# testpull
+# test
 
-Test the Pull GitHub app
+Test a GitHub app
 
 * 12/19/18 11:20
 * 12/20/18 9:28
@@ -9,3 +9,4 @@ Test the Pull GitHub app
 * 12/20/18 12:29
 * 12/20/18 12:32
 * 12/21/18 10:10
+* 12/23/18 7:45
